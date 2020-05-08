@@ -20,8 +20,7 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/Users/danie/Documents/PlatformIO/Projects/I2c scanner/include",
-                    "c:/Users/danie/Documents/PlatformIO/Projects/I2c scanner/src",
+                    "${workspaceFolder}/**",
                     "C:/Users/danie/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                     "C:/Users/danie/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/danie/.platformio/packages/framework-arduino-avr/variants/standard",
